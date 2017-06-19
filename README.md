@@ -31,3 +31,37 @@ As a part of Summer Training, these are the programs built in JAVA.
   - Default Values
   - Class Level, Local Variable  
 - Hello World
+
+##### Lecture-4
+- Object, Class
+  - Data Members
+    - Static (*pair 1*)
+    - Instance(*pair 2*)
+  - Member Functions
+    - Static(*pair 1*)
+    - Instance(*pair 2*)
+  - **Rules of Usage and access**
+
+##### Lecture-5
+- Polymorphism
+  - ~~Compile Time~~ (**Default Virtual Functions**)
+    - Function Overloading (*Access Specifier, Access Modifier, Return Type, Identifier, __Arguments__*)
+    - Operator Overloading (*Only implicitly*)
+  - Run Time
+    - Function Overriding
+- This
+
+##### Lecture-6
+- Constructor
+  - Default
+  - Parameterized
+    - Copy
+  - Constructor Chaining
+
+## Week-2
+
+##### Lecture-7
+- Init Block (*What, Why, How*)
+- Static Block
+  - System.out.println("Hello World");
+- Inheritance
