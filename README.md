@@ -49,7 +49,7 @@ As a part of Summer Training, these are the programs built in JAVA.
     - Operator Overloading (*Only implicitly*)
   - Run Time
     - Function Overriding
-- This
+- This (*The Reference Variable*)
 
 ##### Lecture-6
 - Constructor
@@ -65,3 +65,15 @@ As a part of Summer Training, these are the programs built in JAVA.
 - Static Block
   - System.out.println("Hello World");
 - Inheritance
+  - Reusability (*Super Keyword*)
+  - ~~Dynamic Binding~~ (*In Lecture-8*)
+  - Types (*Single, Multiple, Hierarchal, Multilevel, Hybrid*)
+
+##### Lecture-8
+- Function Overriding (*5 Conditions*)
+- Dynamic Binding (*Upcasting*)
+  - Overriding Member Functions ~~and Data Members~~
+- Constructor Inheritance
+
+##### Lecture-9
+- Abstraction
