@@ -76,4 +76,4 @@ As a part of Summer Training, these are the programs built in JAVA.
 - Constructor Inheritance
 
 ##### Lecture-9
-- Abstraction
+- Abstraction (*Rules*)
