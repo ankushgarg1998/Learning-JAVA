@@ -1,14 +1,3 @@
-interface First
-  {
-  void show();
-  void show1();
-  }
-interface Second
-  {
-  void show();
-  void show2();
-  }
-
 class UsingInterface implements First, Second
   {
   public void show()
