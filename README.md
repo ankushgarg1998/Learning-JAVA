@@ -83,3 +83,16 @@ As a part of Summer Training, these are the programs built in JAVA.
   - Implementing Member Functions (*Rules*)
   - Implementing Data Members
     - Final Keyword
+
+##### Lecture-11
+- Packages
+  - Rules
+  - Making/Importing (*Compilation and Execution Commands differ*)
+  - classpath
+  - static/non-static importing
+  - SubPackages
+- Arrays
+
+## Week-3
+
+##### Lecture-12
