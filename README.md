@@ -91,7 +91,6 @@ As a part of Summer Training, these are the programs built in JAVA.
   - classpath
   - static/non-static importing
   - SubPackages
-- Arrays
 
 ## Week-3
 
