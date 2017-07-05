@@ -94,4 +94,28 @@ As a part of Summer Training, these are the programs built in JAVA.
 
 ## Week-3
 
-##### Lecture-12
+##### Lecture-12 (~)
+- Technologies of server side programming
+  - Component Technology
+    - Web Component
+      - Servlet
+      - JSP
+    - EJB Component
+  - Service Technology
+  - Communication Technology
+- Web Container
+- Different approaches of Server side programming
+
+##### Lecture-13
+- Request Methods
+  - get()
+  - post()
+  - others..(*head, trace, put, delete, connect*)
+- Request, Response Headers
+- **Making a Servlet**
+  - By Servlet Interface
+  - By GenericServlet Class
+  - By HttpServlet Class
+
+##### Lecture-14 (~)
+- Life cycle of a Servlet
