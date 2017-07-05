@@ -134,3 +134,8 @@
 - Setting Attributes
   - 3 Scopes (*Request, Session, Scope*)
   - 3 Methods (*set, get, remove*)
+
+##### Lecture-5
+- Session Tracking
+  - Methods of HttpSession
+- Cookies
