@@ -1,5 +1,5 @@
-# Learning-JAVA
-As a part of Summer Training, these are the programs built in JAVA.
+
+# Core Java
 
 ## Week-1
 
@@ -92,9 +92,10 @@ As a part of Summer Training, these are the programs built in JAVA.
   - static/non-static importing
   - SubPackages
 
+# Advance Java
 ## Week-3
 
-##### Lecture-12 (~)
+##### Lecture-1 (~)
 - Technologies of server side programming
   - Component Technology
     - Web Component
@@ -106,7 +107,7 @@ As a part of Summer Training, these are the programs built in JAVA.
 - Web Container
 - Different approaches of Server side programming
 
-##### Lecture-13
+##### Lecture-2
 - Request Methods
   - get()
   - post()
@@ -117,5 +118,19 @@ As a part of Summer Training, these are the programs built in JAVA.
   - By GenericServlet Class
   - By HttpServlet Class
 
-##### Lecture-14 (~)
+##### Lecture-3 (~)
 - Life cycle of a Servlet
+- Login
+  - doGet();
+  - doPost();
+- Init Parameters
+
+##### Lecture-4
+- Servlet Collaboration
+  - sendRedirect()
+  - RequestDispatcher
+    - include()
+    - forward()
+- Setting Attributes
+  - 3 Scopes (*Request, Session, Scope*)
+  - 3 Methods (*set, get, remove*)
