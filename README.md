@@ -139,3 +139,17 @@
 - Session Tracking
   - Methods of HttpSession
 - Cookies
+
+##### Lecture-6
+- Google App Engine
+- DataStore
+- Using Objectify
+
+##### Lecture-7
+- Importing Front-End Template
+- Querying DataStore
+- Phishing
+
+##### Lecture-8
+- JSP
+- Project Discussion
